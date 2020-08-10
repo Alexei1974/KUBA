@@ -1,0 +1,28 @@
+body {
+    font-family: 'lato', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 28px;
+    color: #505050;
+   overflow-x:hidden ;
+    min-width: 320px;
+}
+.container{
+    max-width: 1000px;
+    padding: 0 15px;
+    margin: 0 auto;
+}
+.container-content{
+    max-width: 1200px;
+    padding: 0 15px;
+    margin: 0 auto;
+    border-bottom: 1px solid rgba(#D0D4D8, .5);
+}
+.title{
+    font-family: Georgia;
+font-weight:400;
+font-size: 32px;
+line-height: 38px;
+text-align: center;
+color: #4E5665;
+}
